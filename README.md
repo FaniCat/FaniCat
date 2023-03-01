@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FaniCat
-- 👀 I’m interested in learning science and data analysis.
+- 👀 I’m interested in learning science and software development. 
 - 🌱 I’m currently learning Python
 - 💞️ I am looking for my first job opportunity in the world of technology
 
